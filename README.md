@@ -1,4 +1,4 @@
-non so fare ancora un cazzo.
+so fare qualcosa
 
 <!--
 **ilrrx/ilrrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
